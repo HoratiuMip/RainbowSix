@@ -1,0 +1,5 @@
+spirdus_speed:        4.0
+rainbow_build_time:   0.5
+gold_show_time:       0.8
+gold_dark_rad:        600.0
+rainbow_spawn_rate:   2
